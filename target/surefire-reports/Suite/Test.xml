@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-215TF9L" name="testmaven.TestMyFirstMaven" tests="1" failures="0" timestamp="30 Jul 2018 18:06:35 GMT" time="0.017" errors="0">
+  <testcase name="test" time="0.009" classname="testmaven.TestMyFirstMaven"/>
+</testsuite>
